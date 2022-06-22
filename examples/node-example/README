@@ -1,0 +1,4 @@
+Comandos para execução:
+
+    docker build .
+    docker run -d -p 3000:3000 --name meu_nodezinho id_imagem
